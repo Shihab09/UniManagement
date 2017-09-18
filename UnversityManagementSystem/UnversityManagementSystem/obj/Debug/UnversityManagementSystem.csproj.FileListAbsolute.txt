@@ -1,0 +1,254 @@
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\UnversityManagementSystem.dll.config
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\UnversityManagementSystem.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\UnversityManagementSystem.pdb
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Antlr3.Runtime.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.SqlServer.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.ReportViewer.Common.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.ReportViewer.WebForms.DLL
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Newtonsoft.Json.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Owin.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Helpers.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Mvc.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Optimization.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Razor.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\WebGrease.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.SqlServer.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Helpers.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Mvc.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Optimization.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Razor.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Newtonsoft.Json.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Antlr3.Runtime.pdb
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.init.resources
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.seed1.resources
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.seed2.resources
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.seed3.resources
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.unallocate.resources
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.migration3.resources
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.migration4.resources
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.migration41.resources
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.csproj.GenerateResource.Cache
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.dll
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.pdb
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.migration5.resources
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.migration6.resources
+F:\ASP dot net\MyWorkstation\Infinity-19-09-15\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.migration7.resources
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\UnversityManagementSystem.dll.config
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\UnversityManagementSystem.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\UnversityManagementSystem.pdb
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Owin.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\WebGrease.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.dll
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.pdb
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.init.resources
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.csproj.GenerateResource.Cache
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.seed1.resources
+C:\Users\BITM Trainer - 301\Desktop\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.seed2.resources
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\UnversityManagementSystem.dll.config
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\UnversityManagementSystem.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\UnversityManagementSystem.pdb
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Antlr3.Runtime.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.ReportViewer.Common.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.ReportViewer.WebForms.DLL
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Newtonsoft.Json.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Owin.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Helpers.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Mvc.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Optimization.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Razor.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\WebGrease.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.SqlServer.Types.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Helpers.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Mvc.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Optimization.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Razor.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Newtonsoft.Json.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Antlr3.Runtime.pdb
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.csprojResolveAssemblyReference.cache
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.init.resources
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.seed1.resources
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.seed2.resources
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.csproj.GenerateResource.Cache
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.dll
+G:\ASP .Net\Last Basis\Final Project Presentation\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.pdb
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\UnversityManagementSystem.dll.config
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\UnversityManagementSystem.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\UnversityManagementSystem.pdb
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Owin.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\WebGrease.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.dll
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.pdb
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.Migrations.v1.resources
+C:\Users\Alauddin\Downloads\Infinity\UnversityManagementSystem\UnversityManagementSystem\obj\Debug\UnversityManagementSystem.csproj.GenerateResource.Cache
